@@ -1,5 +1,5 @@
 # Speech_Emotion_Recognition_Using_LTSM.ipynb
-This is my project scientific research. I had used filter MFCC for extract featuer and used LSTM model for train data.
+This is my project scientific research. I had used filter MFCC for extract featuer and used LSTM model for train data.\n
 My model:
 ![image](https://user-images.githubusercontent.com/86609606/191217118-38d7a007-f7aa-41a5-b963-b75b0bfb0a3b.png)
 My result:
