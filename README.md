@@ -10,5 +10,10 @@ My result:<br>
 + Evaluate train:<br>
 ![image](https://user-images.githubusercontent.com/86609606/191217272-1c83fab9-14e3-471a-a78a-abbfa817346c.png)
 + Evaluate test:<br>
-![image](https://user-images.githubusercontent.com/86609606/191216831-b3bc2628-ef1c-4dd2-853e-4a37a138a00c.png)
+![image](https://user-images.githubusercontent.com/86609606/191216831-b3bc2628-ef1c-4dd2-853e-4a37a138a00c.png)<br>
+Link dataset my used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess 
+More dataset:
++https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
++https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee
++https://www.kaggle.com/datasets/ejlok1/cremad
 
