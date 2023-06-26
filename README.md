@@ -5,10 +5,10 @@ In sound processing, the mel-frequency cepstrum (MFC) is a representation of the
 
 Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC.[1] They are derived from a type of cepstral representation of the audio clip (a nonlinear "spectrum-of-a-spectrum"). The difference between the cepstrum and the mel-frequency cepstrum is that in the MFC, the frequency bands are equally spaced on the mel scale, which approximates the human auditory system's response more closely than the linearly-spaced frequency bands used in the normal spectrum. This frequency warping can allow for better representation of sound, for example, in audio compression that might potentially reduce the transmission bandwidth and the storage requirements of audio signals.<br>
 
-My model:<br>
+Model:<br>
 ![image](https://user-images.githubusercontent.com/86609606/191217118-38d7a007-f7aa-41a5-b963-b75b0bfb0a3b.png)<br>
 
-My result:<br>
+Result:<br>
 + Accuracy:<br>
 ![image](https://user-images.githubusercontent.com/86609606/191216238-d0514f60-ccb5-4f8e-add7-094be9c67757.png)
 + Loss:<br>
